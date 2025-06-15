@@ -53,6 +53,6 @@ Personalized Experiences: Chatbots can be trained to provide personalized respon
 
 *OUTPUT*:
 
-
+![Image](https://github.com/user-attachments/assets/f252d3a0-3fee-4161-be91-524e3e8ce1e8)
 
 
