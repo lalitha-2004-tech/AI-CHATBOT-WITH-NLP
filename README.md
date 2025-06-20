@@ -12,8 +12,9 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-##Description: 
-Name of the project:- AI CHATBOT WITH NLP
+*DESCRIPTION*: 
+
+##*NAME OF THE PROJECT*: AI CHATBOT WITH NLP
             An AI chatbot with NLP using Python is a software program that simulates human conversation using artificial intelligence and natural language processing (NLP). It leverages Python's capabilities to understand, interpret, and respond to user input in a conversational manner. These chatbots are designed to handle a variety of tasks, such as answering questions, providing customer support, or even making product recommendations. 
             
 Here's a more detailed breakdown:
